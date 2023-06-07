@@ -1,4 +1,4 @@
-# autoencoder-cleaning
+# binarization-autoencoder
 
 The different models have different architectures:
 
